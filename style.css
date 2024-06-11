@@ -1,0 +1,42 @@
+.cuerpo {
+    background-color: rgba(175, 175, 175, 0.603);
+}
+.container-fluid {
+    background-color: rgba(150, 150, 150, 0);
+}
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.intro {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    align-items: center;
+}
+.buzon {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.pagina {
+    margin: 90px;
+    height: 500px;
+}
+.pagina1 {
+    margin: 90px;
+}
+.pagina2 {
+    margin: 90px;
+}
+.pagina3 {
+}
+.pagina4 {
+    margin: 90px;
+}
+.pagina5 {
+    margin: 90px;
+}
+.ultimo {
+    text-align: end;
+}
